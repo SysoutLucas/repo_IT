@@ -37,5 +37,5 @@ Teste de conhecimento Laravel 7
    ```
    php artisan serve
    ```
-   Na raíz do nosso repositório temos o arquivo API_IT, ele deve ser importado no <a href="https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=pt-BR">Advanced REST client</a> onde ficará disponível nossas rotas para consumo .
+   Na raíz do nosso repositório temos o arquivo <a href="https://github.com/SysoutLucas/repo_IT/blob/master/API_IT">API_IT </a>, ele deve ser importado no <a href="https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=pt-BR">Advanced REST client</a> onde ficará disponível nossas rotas para consumo .
    
