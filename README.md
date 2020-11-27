@@ -32,4 +32,10 @@ Teste de conhecimento Laravel 7
    php artisan serve
    ```
    
+   Para a nossa api na raíz da pasta API deixaremos ela disponível
+   
+   ```
+   php artisan serve
+   ```
+   Na raíz do nosso repositório temos o arquivo API_IT, ele deve ser importado no <a href="https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=pt-BR">Advanced REST client</a> onde ficará disponível nossas rotas para consumo .
    
