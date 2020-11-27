@@ -32,7 +32,7 @@ Teste de conhecimento Laravel 7
    php artisan serve
    ```
    
-   Para a nossa api não é necessário os comandos npm, você pode fer ser funcionamento com
+   Para a nossa api não é necessário os comandos npm, você pode ver seu funcionamento com
    
    ```
    composer update
