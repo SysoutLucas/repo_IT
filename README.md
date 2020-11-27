@@ -1,7 +1,6 @@
 # repo_IT
 Teste de conhecimento Laravel 7
 
-<h1>Front</h1>
   Laravel mix, Collective, Componentização.<br>
   
   Base de dados deverá se chamar bd_it .<br>
